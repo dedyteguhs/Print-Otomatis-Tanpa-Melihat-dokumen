@@ -32,7 +32,7 @@
     ?>
     <page size="A4">
       <div id="header">
-          PT BALINA AGUNG PERKASA
+          PT dtsindo
           <br/>
           ==========================
           <br/>
